@@ -1,7 +1,7 @@
 
 ---
 
-# 📘 **AI Chatbot Using LLMs — Multi-Domain Intelligent Assistant**
+# 📘 **LLMs for Multi-Domain Intelligent Assistant**
 
 <p align="center">
   <img src="frontend/src/assets/banner.png" alt="AI Chatbot Banner" width="720">
@@ -132,7 +132,7 @@ Everything is clean, extendable, and production-ready.
 # 📂 **Project Structure**
 
 ```
-aryandhanuka10-ai_chatbot_using_llms/
+aryandhanuka10-LLM-for-Multi-Domain-Intelligent-Assistance /
 ├── README.md
 ├── Dockerfile
 ├── docker-compose.yml
@@ -204,8 +204,8 @@ aryandhanuka10-ai_chatbot_using_llms/
 ## 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/aryandhanuka10/ai_chatbot_using_llms.git
-cd ai_chatbot_using_llms
+git clone https://github.com/aryandhanuka10/LLM-for-Multi-Domain-Intelligent-Assistance .git
+cd LLM-for-Multi-Domain-Intelligent-Assistance 
 ```
 
 ---
